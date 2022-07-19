@@ -1,8 +1,8 @@
 ## Hello my name is Aldair! Welcome to my profile xD
 <div align="center">
   <a href="https://github.com/aldairribeiro">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=aldairribeiro&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldairribeiro&layout=compact&langs_count=7&theme=merko"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=aldairribeiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldairribeiro&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="aldair-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
